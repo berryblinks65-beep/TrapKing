@@ -1,3 +1,4 @@
+const config = require("./config")
 # TrapKingconst config = require("./config");
 
 // Example owner command
